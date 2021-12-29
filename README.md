@@ -111,7 +111,7 @@ playlist.stop(); // Hey Jude stopped
 playlist.play(); // Hey Jude started
 ```
 
-[Solution]()
+[Solution](https://github.com/Arman0701/This-New/blob/master/Required-Tasks/Task-6.js)
 
 ---
 
